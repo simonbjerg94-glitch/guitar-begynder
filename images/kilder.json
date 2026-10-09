@@ -1,0 +1,29 @@
+[
+ {
+  "akkord": "C-dur",
+  "fil": "images/C/1.webp",
+  "titel": "Chord C.jpg",
+  "forfatter": "Mjchael",
+  "licens": "CC BY-SA 3.0 Unported",
+  "kilde": "Wikimedia Commons, commons.wikimedia.org/wiki/File:Chord_C.jpg",
+  "aendringer": "nedskaleret til 1000 px bredde og gemt som WebP"
+ },
+ {
+  "akkord": "D-dur",
+  "fil": "images/D/1.webp",
+  "titel": "Chord D.jpg",
+  "forfatter": "Mjchael",
+  "licens": "CC BY-SA 3.0 Unported",
+  "kilde": "Wikimedia Commons, commons.wikimedia.org/wiki/File:Chord_D.jpg",
+  "aendringer": "nedskaleret til 1000 px bredde og gemt som WebP"
+ },
+ {
+  "akkord": "A-mol",
+  "fil": "images/Am/1.webp",
+  "titel": "Chord Am.jpg",
+  "forfatter": "Mjchael",
+  "licens": "CC BY-SA 3.0 Unported",
+  "kilde": "Wikimedia Commons, commons.wikimedia.org/wiki/File:Chord_Am.jpg",
+  "aendringer": "nedskaleret til 1000 px bredde og gemt som WebP"
+ }
+]

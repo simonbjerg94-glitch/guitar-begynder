@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 640" role="img" aria-label="Guitarens dele">
+<style>text{font-family:'DejaVu Sans','Helvetica Neue',Arial,sans-serif;font-size:14px;fill:#0f172a}.l{stroke:#64748b;stroke-width:1.4}</style>
+<rect width="360" height="640" rx="16" fill="#ffffff"/>
+<!-- hoved -->
+<path d="M130 20h40l6 92h-52z" fill="#6b4f3a"/>
+<g fill="#cbd5e1" stroke="#64748b"><circle cx="118" cy="40" r="8"/><circle cx="116" cy="66" r="8"/><circle cx="114" cy="92" r="8"/><circle cx="182" cy="40" r="8"/><circle cx="184" cy="66" r="8"/><circle cx="186" cy="92" r="8"/></g>
+<!-- sadel -->
+<rect x="124" y="110" width="52" height="7" rx="2" fill="#f8fafc" stroke="#94a3b8"/>
+<!-- hals -->
+<path d="M126 117h48l2 230h-52z" fill="#3f2d20"/>
+<g stroke="#d1d5db" stroke-width="2"><line x1="126" y1="152" x2="174" y2="152"/><line x1="126" y1="185" x2="174" y2="185"/><line x1="125" y1="216" x2="175" y2="216"/><line x1="125" y1="245" x2="175" y2="245"/><line x1="125" y1="272" x2="175" y2="272"/><line x1="124" y1="297" x2="176" y2="297"/><line x1="124" y1="320" x2="176" y2="320"/></g>
+<g fill="#e5e7eb"><circle cx="150" cy="200" r="3"/><circle cx="150" cy="259" r="3"/><circle cx="150" cy="309" r="3"/></g>
+<!-- krop -->
+<path d="M150 330c-58 0-92 34-92 82 0 28 14 46 26 58-16 20-24 38-24 60 0 52 42 86 90 86s90-34 90-86c0-22-8-40-24-60 12-12 26-30 26-58 0-48-34-82-92-82z" fill="#e9b872" stroke="#b07d3c" stroke-width="3"/>
+<circle cx="150" cy="430" r="30" fill="#2b1d12"/><circle cx="150" cy="430" r="36" fill="none" stroke="#b07d3c" stroke-width="3"/>
+<rect x="118" y="530" width="64" height="12" rx="4" fill="#3f2d20"/>
+<!-- strenge -->
+<g stroke="#f1f5f9" stroke-width="1"><line x1="132" y1="112" x2="132" y2="536"/><line x1="139" y1="112" x2="139" y2="536"/><line x1="146" y1="112" x2="146" y2="536"/><line x1="154" y1="112" x2="154" y2="536"/><line x1="161" y1="112" x2="161" y2="536"/><line x1="168" y1="112" x2="168" y2="536"/></g>
+<!-- etiketter -->
+<line class="l" x1="190" y1="48" x2="228" y2="48"/><text x="232" y="44">Hoved med</text><text x="232" y="61">stemmeskruer</text>
+<line class="l" x1="178" y1="113" x2="228" y2="113"/><text x="232" y="118">Sadel</text>
+<line class="l" x1="178" y1="168" x2="228" y2="168"/><text x="232" y="164">1. bånd</text><text x="232" y="181" style="font-size:11px;fill:#64748b">(feltet under sadlen)</text>
+<line class="l" x1="178" y1="216" x2="228" y2="216"/><text x="232" y="221">Båndtråd</text>
+<line class="l" x1="122" y1="262" x2="90" y2="262"/><text x="86" y="256" text-anchor="end" style="font-size:13px">Hals med</text><text x="86" y="273" text-anchor="end" style="font-size:13px">gribebræt</text>
+<line class="l" x1="186" y1="430" x2="250" y2="430"/><text x="254" y="435">Lydhul</text>
+<line class="l" x1="60" y1="410" x2="40" y2="410"/><text x="36" y="415" text-anchor="end">Krop</text>
+<line class="l" x1="182" y1="536" x2="250" y2="536"/><text x="254" y="541">Stol</text>
+<text x="180" y="610" text-anchor="middle" style="font-size:13px;fill:#475569">Strengene: 6 (tykkeste) … 1 (tyndeste)</text>
+</svg>
